@@ -22,7 +22,7 @@
 
     .section_pad { padding-bottom: 23px;background: #333; }
 
-    .header_sec { padding: 30px 0px;}
+    .header_sec { padding: 30px 0px 10px 0;}
 
     .video_style iframe{ width: 99%; }
 
@@ -122,7 +122,7 @@
 
 /* Part 2: Video & contact */
 
-    .bottm_header { padding: 40px 0; }
+    .bottm_header { padding: 20px 0; }
 
     .left_header { padding-top: 30px;}
 
@@ -155,7 +155,7 @@
         color: #fff;
         font-family: 'Open Sans', sans-serif;
         font-size: 28px;
-        padding-top: 20px;
+        padding-top: 0px;
         line-height: 32px;
         //margin-left: 20px;
     }

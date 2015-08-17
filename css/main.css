@@ -649,7 +649,7 @@
 
 /* --------------------- end ISOTOPE --------------------- */
 /* thumb image */
-.thumb { position: relative; overflow: hidden;border-radius: 3px;overflow: hidden;display: inline-block;background: #eee;height: 200px; }
+.thumb { position: relative; overflow: hidden;border-radius: 3px;overflow: hidden;display: inline-block;background: #eee;height: 205px; }
 .thumb a, .thumb a img { display: block; border-radius:0px; border-top-left-radius: 3px;border-top-right-radius: 3px;}
 .thumb a img { width: 100%; }
 .thumb .info { position: absolute; left: 0; top: 0; bottom: 0; width: 100%; opacity: 0; filter: alpha(opacity=0); -webkit-transition: all .25s linear; -moz-transition: all .25s linear; -o-transition: all .25s linear; -ms-transition: all .25s linear; transition: all .25s linear; }
@@ -726,4 +726,23 @@
 
 .line-height_18 {
 	line-height: 18px;
+}
+
+.no-padding .fcenter {
+    padding-top: 10px;
+}
+
+.height_20 {
+	height: 20px;
+}
+
+.phone-wrap {
+	float: left;
+	padding: 0px 10px 0px 10px;
+}
+
+.phone-list {
+	text-align: center;
+	line-height: 30px;
+	margin-top: 20px;
 }
